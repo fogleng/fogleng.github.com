@@ -1,0 +1,14 @@
+[{
+	"id": "001",
+	"version": 1.1,
+	"description": "这是可是对讲 APP 1.1 版本",
+	"appname": "linphone",
+	"url":"linphone.apk"
+},
+{
+	"id": "002",
+	"version": 1.1,
+	"description": "这是小区住户 APP 1.1 版本",
+	"appname": "MobileCommunity",
+	"url":"MobileCommunity.apk"
+}]
